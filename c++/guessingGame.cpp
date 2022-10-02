@@ -25,8 +25,5 @@ int main(){
     else{
         cout << " You win ";
     }
-    
-
-
    return 0;
     }
